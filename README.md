@@ -54,7 +54,7 @@ Stay tuned as I build and share projects that showcase my journey 🚀
   <a href="https://github.com/t-mensah">
     <img src="https://img.shields.io/badge/GitHub-t--mensah-blue?logo=github" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/theophilus-mensah">
+  <a href="https://linkedin.com/in/theophilus-mensah-131809363">
     <img src="https://img.shields.io/badge/LinkedIn-Theophilus%20Mensah-blue?logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:theomensah@gmail.com">
