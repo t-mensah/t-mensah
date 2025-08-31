@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Theophilus Mensah</h1>
-<h3 align="center">MSc IT Student | Educator(BME) | 💻 Front-End Developer | 🎨 UX/UI Enthusiast | 🚀 Continuous Learner</h3>
+<h3 align="center">🎓MSc IT Student | 🎓Educator(B.Math) | 💻 Front-End Developer | 🎨 UX/UI Enthusiast | 🚀 Continuous Learner</h3>
 
 ---
 
