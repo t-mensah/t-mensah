@@ -1,13 +1,13 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Theophilus Mensah</h1>
-<h3 align="center">💻 Front-End Developer | 🎨 UX/UI Enthusiast | 🚀 Continuous Learner</h3>
+<h3 align="center">MSc IT Student | Educator(BME) | 💻 Front-End Developer | 🎨 UX/UI Enthusiast | 🚀 Continuous Learner</h3>
 
 ---
 
 <!-- About Me -->
 ## 🌟 About Me  
 <p>
-I am a passionate <b>Software Developer</b> and learner in the <b>ALX Front-End Development program</b>.  
+I am a passionate about<b>Software Engineering, AI and EdTech Solutions. </b>Current learner in the <b>ALX Front-End Development program</b>.  
 My journey into tech is inspired by my love for:  
 ✔️ Building things from scratch  
 ✔️ Creative problem-solving  
@@ -16,14 +16,16 @@ My journey into tech is inspired by my love for:
 ✔️ Making a “work of art” through code  
 ✔️ Ensuring accessibility and inclusivity  
 
-My goal is to grow into a <b>technical expert</b>, a <b>user-centric UX/UI designer</b>, and a <b>business & product understanding specialist</b>.
+My goal is to grow into a <b>technical software engineering expert</b>, a <b>user-centric UX/UI designer</b>, and a <b>business & product understanding specialist</b>.
 </p>
 
 ---
 
 <!-- Current Focus -->
 ## 📌 Current Focus  
-- 🌱 Learning and mastering **HTML, CSS, JavaScript, React, and Bash**  
+- 🌱 Learning and mastering **HTML, CSS, JavaScript, React, Github and Bash**
+- 📂 HCI Project: "Improving Learning Retention Through Interactive UI Design in Educational Websites"
+- 📝 AI Project: Machine Learning for Improving Water Quality in Ghana.
 - 🔨 Working on personal projects to strengthen my portfolio  
 - 🤝 Open to collaborating on **web development, mobile app development, and open-source projects**  
 
