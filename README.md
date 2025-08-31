@@ -7,7 +7,7 @@
 <!-- About Me -->
 ## 🌟 About Me  
 <p>
-I am passionate about<b>Software Engineering, AI and EdTech Solutions </b> and currently a learner in the <b>ALX Front-End Development program</b>.  
+I am passionate about<b> Software Engineering, AI and EdTech Solutions </b>, currently a learner in the <b>ALX Front-End Development program</b>.  
 My journey into tech is inspired by my love for:  
 ✔️ Building things from scratch  
 ✔️ Creative problem-solving  
